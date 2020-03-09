@@ -1,0 +1,34 @@
+[23-Feb-2020 09:20:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertV.php on line 9
+[23-Feb-2020 09:20:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertV.php on line 9
+[23-Feb-2020 09:22:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertV.php on line 9
+[23-Feb-2020 09:23:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertV.php on line 9
+[23-Feb-2020 09:52:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 8
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 8
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 11
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 12
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 13
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 14
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 15
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 21
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 24
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 25
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 30
+[23-Feb-2020 09:52:22 UTC] PHP Notice:  Undefined variable: connection in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 09:52:22 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:57:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'qqxzw2w4uaar'@'localhost' (using password: YES) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 8
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'qqxzw2w4uaar'@'localhost' (using password: YES) in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 8
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 11
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 12
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 13
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 14
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 15
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 21
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 24
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 25
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 30
+[23-Feb-2020 10:57:44 UTC] PHP Notice:  Undefined variable: connection in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:57:44 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:58:41 UTC] PHP Notice:  Undefined variable: connection in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:58:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:58:42 UTC] PHP Notice:  Undefined variable: connection in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
+[23-Feb-2020 10:58:42 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/qqxzw2w4uaar/public_html/reg/PhpDatabaseInsertEV.php on line 32
